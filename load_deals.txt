@@ -1,0 +1,9 @@
+PLugin Load Deals
+===================================================
+1. Configuration File is loaded
+2. Functions and Classes loaded
+3. Plugins are loaded
+4. Proccess all code & requests.
+5. Load translations
+6. Load Theme
+7. Load Page Content
